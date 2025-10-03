@@ -36,6 +36,7 @@
 
 # **** Steps to access files ****
 1. Clone the repository
+2. Create .venv for packagaes to be installed
 2. Install packages from requirements.txt
 
 
