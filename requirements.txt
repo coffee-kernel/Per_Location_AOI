@@ -1,0 +1,28 @@
+# Core depemdencies
+cv2
+tkinter
+customtkinter
+threading
+PIL
+numpy
+os
+
+# Debugging and saving data
+logging
+json
+openpyxl
+pandas
+
+# Others
+threading
+pyodbc
+glob
+re
+subprocess
+time
+datetime
+io
+ftplib
+shutil
+
+
